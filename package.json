@@ -1,6 +1,6 @@
 {
   "name": "dna-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a tiny back store for apps using webcomponents",
   "main": "index.js",
   "author": "Valentin Degenne",
