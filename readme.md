@@ -6,7 +6,9 @@ A tiny back store for apps using webcomponents (Polymer).
 ## run the demo
 
 ```bash
-yarn run serve
+# git clone https://github.com/vdegenne/dna-element.git
+# cd dna-element
+# cd yarn run serve
 ```
 
 and access [http://localhost:8000/demo](http://localhost:8000/demo)
