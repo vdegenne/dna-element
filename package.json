@@ -1,15 +1,17 @@
 {
   "name": "dna-element",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a tiny back store for apps using webcomponents",
   "main": "index.js",
   "author": "Valentin Degenne",
   "license": "MIT",
   "dependencies": {
-    "@polymer/polymer": "3.0.0-pre.12",
-    "polymer-cli": "1.7.0-pre.3"
+    "@polymer/polymer": "3.0.0-pre.12"
   },
   "scripts": {
     "demo": "yarn install && polymer serve --module-resolution \"node\" --npm"
+  },
+  "devDependencies": {
+    "polymer-cli": "1.7.0-pre.3"
   }
 }
