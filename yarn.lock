@@ -428,8 +428,8 @@
   resolved "https://registry.yarnpkg.com/@types/ua-parser-js/-/ua-parser-js-0.7.32.tgz#8827d451d6702307248073b5d98aa9293d02b5e5"
 
 "@types/uglify-js@*":
-  version "2.6.31"
-  resolved "https://registry.yarnpkg.com/@types/uglify-js/-/uglify-js-2.6.31.tgz#c694755eeb6a1bb9f8f321f3ec37cc22ca4c4f6b"
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/uglify-js/-/uglify-js-3.0.0.tgz#b765cf23abdc6ab2a67f2b72a9e94a1d43c6432e"
   dependencies:
     source-map "^0.6.1"
 
